@@ -6,4 +6,4 @@ https://cdn.discordapp.com/attachments/1429675449650511973/1567732506285969508/S
 152.53.36.96:20048 Esta es la ip para entrar shady copialo tal cual y pegalo hay
 
 
-chat privado https://fadechats.app/?inv=oWDauhE18HlJjHgboQw3EnH98lOAr2y4
+chat privado https://fadechats.app/?inv=vPoNxl_7woa13-uroaVdG4BhtFWKqJII
