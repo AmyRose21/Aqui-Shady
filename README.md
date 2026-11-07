@@ -1,7 +1,8 @@
 # Aqui-Shady
 
 
-https://cdn.discordapp.com/attachments/1429675449650511973/1567732506285969508/Sonicexe_The_Disaster_2D_v0.1.apk?ex=6aed402c&is=6aebeeac&hm=9e0c8e1bbc2f9050b4117c679284e7894b8752e6a27a1bb3b8b5a22fbe418dc7& aqui 
+https://cdn.discordapp.com/attachments/1479288040424996986/1568759465610711120/Sonicexe_The_Disaster_2D_0.24.apk?ex=6af0fc9a&is=6aefab1a&hm=146df4a3c378ff414f9d5661b645c38199339c369349532c7d2eedbe852dc029&
+aqui 
 
 152.53.36.96:20048 Esta es la ip para entrar shady copialo tal cual y pegalo hay
 
