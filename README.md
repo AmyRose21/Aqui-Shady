@@ -1,9 +1,9 @@
 # Aqui-Shady
 
 
-Version 0.24
+Version 0.28
 
-https://cdn.discordapp.com/attachments/1479288040424996986/1568759465610711120/Sonicexe_The_Disaster_2D_0.24.apk?ex=6af0fc9a&is=6aefab1a&hm=146df4a3c378ff414f9d5661b645c38199339c369349532c7d2eedbe852dc029&
+https://cdn.discordapp.com/attachments/1336845263171751947/1569550629708243056/Sonicexe_The_Disaster_2D_V0.28.apk?ex=6af3dd6e&is=6af28bee&hm=a72a18e7e36aa5d0e3ba93b582e89d8e2e4f11f8334559ab357981cee7f7f0eb&
 
 
 
