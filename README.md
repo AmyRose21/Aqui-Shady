@@ -5,7 +5,7 @@ Version 0.8
 
 
 Este shady este
-https://cdn.discordapp.com/attachments/1269074558674276353/1576028343034191932/Sonicexe_The_Disaster_2D_Remake.exe?ex=6b0b6e46&is=6b0a1cc6&hm=d1f81810900abdb438f6bd1d39c215faa99a863c6611d4f7526b751b294dd959&
+https://cdn.discordapp.com/attachments/1269074558674276353/1576026955911012484/Sonicexe_The_Disaster_2D_v0.8.apk?ex=6b0b6cfb&is=6b0a1b7b&hm=f7a08bad2d8633984c721052f91e13e606169970904264f64cf8e12195ace4d8&
 
 
 ARRIBAAA!
